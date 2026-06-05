@@ -75,9 +75,6 @@ This work contributes to the growing body of knowledge surrounding enterprise ar
 
 <img width="411" height="262" alt="2 2 Image 2" src="https://github.com/user-attachments/assets/6c610a93-8228-49a7-b38d-cdb4374cda94" />
 
-<img width="437" height="278" alt="2 2 image 3" src="https://github.com/user-attachments/assets/3dfaca58-bd71-4648-9d57-3ca348c88800" />
-
-<img width="460" height="275" alt="2 2 Image 4" src="https://github.com/user-attachments/assets/5ba815fa-e6ad-4082-b4f5-ad1fde55fae4" />
 
 <img width="416" height="273" alt="2 2 Image 5" src="https://github.com/user-attachments/assets/7c16b817-aedf-4688-97f9-879a4431774b" />
 
