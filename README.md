@@ -111,5 +111,16 @@ ISBN: 978-89704-145-9
 This repository follows the Zenodo record license:
 
 **Creative Commons Attribution 4.0 International**
+Referenced Publication
+
+Mastering AI & Machine Learning in ServiceNow: Intelligent Automation & Data-Driven Solutions
+Author:
+Sasibhushan Rao Chanthati
+ISBN:
+978-89704-145-9
+
+Zenodo Citation
+Chanthati, S. R. (2025, July 30). Architecting Next-Gen Financial Systems with AI and Cloud-Native Microservice. 4th IEEE World Conference on Applied Intelligence and Computing (AIC-2025) IEEE Conference ID: 66080. https://doi.org/10.5281/zenodo.20281424
+DOI: 10.5281/zenodo.20281424
 
 Copyright © Sasibhushan Rao Chanthati.
